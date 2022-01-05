@@ -1,0 +1,11 @@
+Django==3.2.9
+djangorestframework
+mysqlclient
+icecream
+googlemaps
+sphinx
+selenium
+beautifulsoup4
+django-rest-knox
+django-cors-headers
+pandas
